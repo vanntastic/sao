@@ -4,8 +4,16 @@
 
 <p align="center">
 <br>
+
 <a href="https://npmjs.com/package/sao"><img src="https://img.shields.io/npm/v/sao.svg?style=flat" alt="NPM version"></a> <a href="https://npmjs.com/package/sao"><img src="https://img.shields.io/npm/dm/sao.svg?style=flat" alt="NPM downloads"></a> <a href="https://circleci.com/gh/saojs/sao"><img src="https://img.shields.io/circleci/project/saojs/sao/master.svg?style=flat" alt="Build Status"></a> <a href="https://packagephobia.now.sh/result?p=sao"><img src="https://packagephobia.now.sh/badge?p=sao" alt="install size"></a> <a href="https://github.com/egoist/donate"><img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat" alt="donate"></a> <a href="https://chat.egoist.moe"><img src="https://img.shields.io/badge/chat-on%20discord-7289DA.svg?style=flat" alt="chat"></a>
 </p>
+
+
+## NOTE: this fork adds the following things:
+
+- displaying a list of previously used generators when running without any arguments.
+
+Build status for `@vanntastic/sao` [![CircleCI](https://circleci.com/gh/vanntastic/sao.svg?style=svg)](https://circleci.com/gh/vanntastic/sao)
 
 ## Motivation
 
