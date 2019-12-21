@@ -31,7 +31,8 @@ Build status for `@vanntastic/sao` [![CircleCI](https://circleci.com/gh/vanntast
 ## Quick Start
 
 ```bash
-npm i -g sao
+# to install this fork
+npm i -g vanntastic/sao
 
 # An official generator for creating a Node.js project
 # Generate from git repo
