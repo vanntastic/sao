@@ -1,13 +1,15 @@
 {
-  "name": "sao",
+  "name": "@vanntastic/sao",
   "version": "0.0.0-semantic-release",
   "description": "Futuristic scaffolding tool ⚔",
   "repository": {
-    "url": "https://github.com/saojs/sao.git",
+    "url": "git+https://github.com/vanntastic/sao.git",
     "type": "git"
   },
   "main": "lib/index.js",
-  "bin": "bin/cli.js",
+  "bin": {
+    "sao": "bin/cli.js"
+  },
   "files": [
     "lib",
     "bin",
@@ -95,5 +97,12 @@
     "simple",
     "easy",
     "workflow"
-  ]
+  ],
+  "bugs": {
+    "url": "https://github.com/saojs/sao/issues"
+  },
+  "homepage": "https://github.com/saojs/sao#readme",
+  "directories": {
+    "lib": "lib"
+  }
 }
